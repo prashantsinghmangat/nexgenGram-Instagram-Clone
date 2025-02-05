@@ -1,12 +1,34 @@
-# Welcome to your Lovable project
+# NexGenGram - Instagram-like Social Media Application
+
+## Created by [Prashant Singh Mangat](https://prashantsinghmangat.netlify.app/)
+
+A modern social media application built with React, featuring Instagram-like functionality including stories, posts, likes, comments, and user authentication.
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/ec9e8ba2-b3f7-40b3-8169-3cdd2eb2ba6e
 
-## How can I edit this code?
+## Features
 
-There are several ways of editing your application.
+- Instagram-style Stories with auto-play functionality
+- Photo and video posts with likes and comments
+- User authentication with local storage
+- Real-time status updates
+- Interactive post grid
+- Share functionality
+- Modern, responsive design
+
+## Technologies Used
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How to Edit This Code
+
+There are several ways to edit your application:
 
 **Use Lovable**
 
@@ -36,34 +58,14 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## About the Developer
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This project was developed by Prashant Singh Mangat, a web developer passionate about creating modern web applications. You can view more of my work at my [portfolio website](https://prashantsinghmangat.netlify.app/).
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
+## Deployment
 
 Simply open [Lovable](https://lovable.dev/projects/ec9e8ba2-b3f7-40b3-8169-3cdd2eb2ba6e) and click on Share -> Publish.
 
-## I want to use a custom domain - is that possible?
+## Custom Domain Setup
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
